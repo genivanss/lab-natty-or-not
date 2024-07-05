@@ -7,9 +7,9 @@ Inspirado na hype "Natty or Not" do fisiculturismo, este Lab da DIO nos convida 
 
 
 ## 🤖 Tecnologias Utilizadas
-[ElevenLabs](https://elevenlabs.io/)
-[HeyGen](https://www.heygen.com/)
-[CapCut](https://www.capcut.com/pt-br/)
+[ElevenLabs](https://elevenlabs.io/)<br/>
+[HeyGen](https://www.heygen.com/)<br/>
+[CapCut](https://www.capcut.com/pt-br/)<br/>
 
 
 ## 🧐 Processo de Criação
