@@ -16,15 +16,15 @@ Inspirado na hype "Natty or Not" do fisiculturismo, este Lab da DIO nos convida 
 Para criar o vídeo do projeto do desafio Fake or Naty, primeiro, utilizei o ChatGPT para redigir o texto necessário para o vídeo. Com o texto pronto, passei para a ferramenta online de IA chamada ElevenLabs, onde transformei o texto em áudio. Após baixar o arquivo de áudio gerado, acessei a ferramenta online de IA chamada HeyGen. Lá, escolhi um avatar realista que representasse bem a mensagem do projeto. Fiz o upload do áudio e, com isso, a HeyGen gerou um vídeo do avatar falando o texto. Esse processo combinou diferentes tecnologias de IA para criar um vídeo coeso e envolvente.
 
 
-## 🚀 Resultados
+## 🚀 Resultado
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Mu42FgJquA4" title="Preview do Conteúdo">
+  <a href="https://www.youtube.com/watch?v=Mu42FgJquA4" target="_blank" title="Preview do Conteúdo">
   <img src="./exemplos/thumbnail.png" width="20%">
   </a>
 <p>
 
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Criar algo 'natty' com IA é um desafio emocionante que combina inovação e ética. A tecnologia permite realismo impressionante, mas nos leva a refletir sobre autenticidade e responsabilidade. É uma jornada que testa os limites da criatividade e da consciência tecnológica.
 
 
