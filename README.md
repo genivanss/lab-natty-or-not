@@ -18,7 +18,7 @@ Para criar o vídeo do projeto do desafio Fake or Naty, primeiro, utilizei o Cha
 
 ## 🚀 Resultado
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Mu42FgJquA4" target="_blank" title="Preview do Conteúdo">
+  <a href="https://www.youtube.com/watch?v=Mu42FgJquA4" target="_blank">
   <img src="./exemplos/thumbnail.png" width="20%">
     <br/>Clique para assistir o vídeo!
   </a>
