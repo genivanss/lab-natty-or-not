@@ -1,51 +1,48 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto 
+Obrigado, DIO e Santander! Impactando a Sociedade com Educação em IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Inspirado na hype "Natty or Not" do fisiculturismo, este Lab da DIO nos convida a conhecer o mundo das IAs Generativas. Exploraremos o potencial dessas tendências tecnológicas incríveis 💪🤓
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[ElevenLabs](https://elevenlabs.io/)
+[HeyGen](https://www.heygen.com/)
+[CapCut](https://www.capcut.com/pt-br/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para criar o vídeo do projeto do desafio Fake or Naty, primeiro, utilizei o ChatGPT para redigir o texto necessário para o vídeo. Com o texto pronto, passei para a ferramenta online de IA chamada ElevenLabs, onde transformei o texto em áudio. Após baixar o arquivo de áudio gerado, acessei a ferramenta online de IA chamada HeyGen. Lá, escolhi um avatar realista que representasse bem a mensagem do projeto. Fiz o upload do áudio e, com isso, a HeyGen gerou um vídeo do avatar falando o texto. Esse processo combinou diferentes tecnologias de IA para criar um vídeo coeso e envolvente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Mu42FgJquA4" title="Preview do Conteúdo">
+  <img src=".github/exemplos/thumbnail.png" width="20%">
+  </a>
+<p>
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar algo 'natty' com IA é um desafio emocionante que combina inovação e ética. A tecnologia permite realismo impressionante, mas nos leva a refletir sobre autenticidade e responsabilidade. É uma jornada que testa os limites da criatividade e da consciência tecnológica.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/22550201?v=4"
+    />
+    <p>&nbsp&nbsp&nbspGenivan Souza<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/genivanss">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/genivanss">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/genivanss/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
 
-## Links Interessantes
+---
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+⌨️ com 💜 por [Genivan Souza](https://github.com/genivanss)
