@@ -20,7 +20,7 @@ Para criar o vídeo do projeto do desafio Fake or Naty, primeiro, utilizei o Cha
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Mu42FgJquA4" target="_blank" title="Preview do Conteúdo">
   <img src="./exemplos/thumbnail.png" width="20%">
-    Clique para assistir o vídeo!
+    <br/>Clique para assistir o vídeo!
   </a>
 <p>
 
